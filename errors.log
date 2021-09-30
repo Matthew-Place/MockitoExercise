@@ -1,0 +1,11 @@
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java29 - id: null first name: null item: null Quantity: 3 Total Price: null
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java36 - Please enter the customer id
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java38 - Please enter the item id
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java40 - Please enter the qty
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java43 - order created
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java63 - Please enter the id of the order you would like to delete
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java65 - order deleted
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java49 - Please enter the id of the order you would like to update: 
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java51 - Enter the new item id: 
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java53 - enter a quantity: 
+20210930 14:26:40 INFO  [main] controller.OrderController OrderController.java55 - And finally, enter the customer id
